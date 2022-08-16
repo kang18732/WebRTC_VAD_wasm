@@ -1,0 +1,1 @@
+/Users/minsuk/Desktop/new_emsdk/emsdk/upstream/emscripten/em++  -std=c++11 -O2 -O3 -DNDEBUG --bind -s EXPORT_ES6=1 -s MODULARIZE=1 @CMakeFiles/vad.dir/objects1.rsp -o vad.js 

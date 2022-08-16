@@ -1,0 +1,3 @@
+/Users/minsuk/Desktop/new_emsdk/emsdk/webrtc_vad/build/CMakeFiles/vad.dir
+/Users/minsuk/Desktop/new_emsdk/emsdk/webrtc_vad/build/CMakeFiles/edit_cache.dir
+/Users/minsuk/Desktop/new_emsdk/emsdk/webrtc_vad/build/CMakeFiles/rebuild_cache.dir
